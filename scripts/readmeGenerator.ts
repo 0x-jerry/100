@@ -24,6 +24,7 @@ function getData() {
     "100, 100 projects",
     "vscode-hexo-utils, VSCode sidebar for Hexo",
     "vscode-writing, Auto encrypt/decrypt file in vscode",
+    "x-release, A tool that help you to create a new release.",
   ];
 
   return {
