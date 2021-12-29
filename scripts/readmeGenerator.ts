@@ -32,15 +32,18 @@ function getData() {
   };
 }
 
-function getStatsProgress(total: number, current: number) {
-  const finished = "█";
+function getStatsProgress(total: number, current: number, length = 50) {
+  const finished = "=";
 
-  const unfinished = "░";
+  const unfinished = "-";
+
+  const finishedCount = Math.round((current / total) * length);
+  const unfinishedCount = length - finishedCount;
 
   const progressBar =
-    finished.repeat(current) + unfinished.repeat(total - current);
+    finished.repeat(finishedCount) + unfinished.repeat(unfinishedCount);
 
-  return [`Progress: ${current}/${total}`, progressBar].join("\n");
+  return [`Progress: ${current} / ${total}`, `[${progressBar}]`].join("\n\n");
 }
 
 function getRepositoriesString(repos: string[]) {
