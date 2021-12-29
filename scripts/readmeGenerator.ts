@@ -27,7 +27,7 @@ function getData() {
   ];
 
   return {
-    repository: getRepositoriesString(repos),
+    projects: getRepositoriesString(repos),
     statsProgress: getStatsProgress(100, repos.length),
   };
 }
