@@ -33,17 +33,22 @@ function getData() {
 }
 
 function getStatsProgress(total: number, current: number, length = 50) {
-  const finished = "=";
+  const finished = "■";
 
-  const unfinished = "-";
+  const unfinished = "□";
 
-  const finishedCount = Math.round((current / total) * length);
+  const percentage = current / total;
+
+  const finishedCount = Math.round(percentage * length);
   const unfinishedCount = length - finishedCount;
 
   const progressBar =
     finished.repeat(finishedCount) + unfinished.repeat(unfinishedCount);
 
-  return [`Progress: ${current} / ${total}`, `[${progressBar}]`].join("\n\n");
+  return [
+    // `Progress: ${current} / ${total}`,
+    `${progressBar} ${Math.round(percentage * 100)}%`,
+  ].join("\n\n");
 }
 
 function getRepositoriesString(repos: string[]) {

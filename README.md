@@ -2,9 +2,7 @@
 
 Life purpose, 100 open source projects that I made. WIP
 
-Progress: 3 / 100
-
-[==------------------------------------------------]
+■■□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□ 3%
 
 # Repository
 
