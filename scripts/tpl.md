@@ -1,6 +1,6 @@
-# 100
+# 100 projects(WIP)
 
-Life purpose, 100 open source projects that I made. WIP
+Here are 100 open source projects that I made.
 
 <!-- statsProgress -->
 

@@ -25,6 +25,7 @@ function getData() {
     "vscode-hexo-utils, VSCode sidebar for Hexo",
     "vscode-writing, Auto encrypt/decrypt files in a virtual workspace.",
     "x-release, A tool that help you to create a new release.",
+    "mmcq.js, Implement MMCQ with rust & typescript.",
   ];
 
   return {

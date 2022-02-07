@@ -1,8 +1,8 @@
-# 100
+# 100 projects(WIP)
 
-Life purpose, 100 open source projects that I made. WIP
+Here are 100 open source projects that I made.
 
-■■□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□ 4%
+■■■□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□ 5%
 
 # Projects
 
@@ -10,3 +10,4 @@ Life purpose, 100 open source projects that I made. WIP
 [![VSCode sidebar for Hexo](https://github-readme-stats.vercel.app/api/pin/?username=0x-jerry&repo=vscode-hexo-utils)](https://github.com/0x-jerry/vscode-hexo-utils)
 [![Auto encrypt/decrypt files in a virtual workspace.](https://github-readme-stats.vercel.app/api/pin/?username=0x-jerry&repo=vscode-writing)](https://github.com/0x-jerry/vscode-writing)
 [![A tool that help you to create a new release.](https://github-readme-stats.vercel.app/api/pin/?username=0x-jerry&repo=x-release)](https://github.com/0x-jerry/x-release)
+[![Implement MMCQ with rust & typescript.](https://github-readme-stats.vercel.app/api/pin/?username=0x-jerry&repo=mmcq.js)](https://github.com/0x-jerry/mmcq.js)
