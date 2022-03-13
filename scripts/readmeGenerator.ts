@@ -24,6 +24,7 @@ function getData() {
     "100, 100 projects",
     "vscode-hexo-utils, VSCode sidebar for Hexo",
     "vscode-private-notes, Auto encrypt/decrypt files in a virtual workspace.",
+    "vscode-remote-snippets, VSCode remote snippets",
     "x-release, A tool that help you to create a new release.",
     "mmcq.js, Implement MMCQ with rust & typescript.",
   ];
