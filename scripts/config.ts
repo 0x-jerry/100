@@ -12,6 +12,7 @@ const repos = [
   "vite-plugin-blog, Resolve markdown file like Hexo does.",
   "v2fly-schema, V2Fly config json schema.",
   "onrm, Another NPM/YARN registry manager, like the nrm.",
+  "e2fly, Another cross-platform V2Ray GUI client.",
 ];
 
 export const config = {

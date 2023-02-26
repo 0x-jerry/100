@@ -2,7 +2,7 @@
 
 Here are 100 open source projects that I made.
 
-■■■■□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□ 7%
+■■■■■□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□ 10%
 
 # Projects
 
@@ -13,3 +13,6 @@ Here are 100 open source projects that I made.
 [![Auto encrypt/decrypt files in a virtual workspace.](https://github-readme-stats.vercel.app/api/pin/?username=0x-jerry&repo=vscode-private-notes)](https://github.com/0x-jerry/vscode-private-notes)
 [![VSCode remote snippets](https://github-readme-stats.vercel.app/api/pin/?username=0x-jerry&repo=vscode-remote-snippets)](https://github.com/0x-jerry/vscode-remote-snippets)
 [![Resolve markdown file like Hexo does.](https://github-readme-stats.vercel.app/api/pin/?username=0x-jerry&repo=vite-plugin-blog)](https://github.com/0x-jerry/vite-plugin-blog)
+[![V2Fly config json schema.](https://github-readme-stats.vercel.app/api/pin/?username=0x-jerry&repo=v2fly-schema)](https://github.com/0x-jerry/v2fly-schema)
+[![Another NPM/YARN registry manager](https://github-readme-stats.vercel.app/api/pin/?username=0x-jerry&repo=onrm)](https://github.com/0x-jerry/onrm)
+[![Another cross-platform V2Ray GUI client.](https://github-readme-stats.vercel.app/api/pin/?username=0x-jerry&repo=e2fly)](https://github.com/0x-jerry/e2fly)
