@@ -13,6 +13,7 @@ const repos = [
   "v2fly-schema, V2Fly config json schema.",
   "onrm, Another NPM/YARN registry manager, like the nrm.",
   "e2fly, Another cross-platform V2Ray GUI client.",
+  "load-pkg, Detect the closest `package.json` recursively.",
 ];
 
 export const config = {

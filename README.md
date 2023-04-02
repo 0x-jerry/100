@@ -1,8 +1,8 @@
 # 100 projects(WIP)
 
-Here are 100 open source projects that I made.
+Here are 100 open source projects that I will made.
 
-■■■■■□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□ 10%
+■■■■■■□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□ 11%
 
 # Projects
 
@@ -16,3 +16,4 @@ Here are 100 open source projects that I made.
 [![V2Fly config json schema.](https://github-readme-stats.vercel.app/api/pin/?username=0x-jerry&repo=v2fly-schema)](https://github.com/0x-jerry/v2fly-schema)
 [![Another NPM/YARN registry manager](https://github-readme-stats.vercel.app/api/pin/?username=0x-jerry&repo=onrm)](https://github.com/0x-jerry/onrm)
 [![Another cross-platform V2Ray GUI client.](https://github-readme-stats.vercel.app/api/pin/?username=0x-jerry&repo=e2fly)](https://github.com/0x-jerry/e2fly)
+[![Detect the closest `package.json` recursively.](https://github-readme-stats.vercel.app/api/pin/?username=0x-jerry&repo=load-pkg)](https://github.com/0x-jerry/load-pkg)
