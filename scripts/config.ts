@@ -5,6 +5,7 @@ const repos = [
   //
   "100, 100 projects",
   "mmcq.js, Implement MMCQ with rust and typescript.",
+  "silver, Let writing CLI like writing a document.",
   "x-release, A tool that help you to create a new release quickly.",
   "vscode-hexo-utils, VSCode sidebar for Hexo blog.",
   "vscode-private-notes, Auto encrypt/decrypt files in a virtual workspace.",
