@@ -15,6 +15,7 @@ const repos = [
   "onrm, Another NPM/YARN registry manager, like the nrm.",
   "e2fly, Another cross-platform V2Ray GUI client.",
   "load-pkg, Detect the closest `package.json` recursively.",
+  "openapi-ts, Generate client typescript code by openapi schema.",
 ];
 
 export const config = {

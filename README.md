@@ -2,7 +2,7 @@
 
 Here are 100 open source projects that I will made.
 
-■■■■■■□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□ 12%
+■■■■■■■□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□ 13%
 
 # Projects
 
@@ -18,3 +18,4 @@ Here are 100 open source projects that I will made.
 [![Another NPM/YARN registry manager](https://github-readme-stats.vercel.app/api/pin/?username=0x-jerry&repo=onrm)](https://github.com/0x-jerry/onrm)
 [![Another cross-platform V2Ray GUI client.](https://github-readme-stats.vercel.app/api/pin/?username=0x-jerry&repo=e2fly)](https://github.com/0x-jerry/e2fly)
 [![Detect the closest `package.json` recursively.](https://github-readme-stats.vercel.app/api/pin/?username=0x-jerry&repo=load-pkg)](https://github.com/0x-jerry/load-pkg)
+[![Generate client typescript code by openapi schema.](https://github-readme-stats.vercel.app/api/pin/?username=0x-jerry&repo=openapi-ts)](https://github.com/0x-jerry/openapi-ts)
