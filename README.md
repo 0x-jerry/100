@@ -2,7 +2,7 @@
 
 Here are 100 open source projects that I will made.
 
-■■■■■■■□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□ 13%
+■■■■■■■■■□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□ 18%
 
 # Projects
 
@@ -19,3 +19,8 @@ Here are 100 open source projects that I will made.
 [![Another cross-platform V2Ray GUI client.](https://github-readme-stats.vercel.app/api/pin/?username=0x-jerry&repo=e2fly)](https://github.com/0x-jerry/e2fly)
 [![Detect the closest `package.json` recursively.](https://github-readme-stats.vercel.app/api/pin/?username=0x-jerry&repo=load-pkg)](https://github.com/0x-jerry/load-pkg)
 [![Generate client typescript code by openapi schema.](https://github-readme-stats.vercel.app/api/pin/?username=0x-jerry&repo=openapi-ts)](https://github.com/0x-jerry/openapi-ts)
+[![A vscode extension that provide preview function.](https://github-readme-stats.vercel.app/api/pin/?username=0x-jerry&repo=vscode-vitepress)](https://github.com/0x-jerry/vscode-vitepress)
+[![A vscode extension that support ohm-js language.](https://github-readme-stats.vercel.app/api/pin/?username=0x-jerry&repo=vscode-ohm)](https://github.com/0x-jerry/vscode-ohm)
+[![Use brand color in unocss.](https://github-readme-stats.vercel.app/api/pin/?username=0x-jerry&repo=unocss-preset-brand)](https://github.com/0x-jerry/unocss-preset-brand)
+[![Import any file as array buffer.](https://github-readme-stats.vercel.app/api/pin/?username=0x-jerry&repo=unplugin-import-bin)](https://github.com/0x-jerry/unplugin-import-bin)
+[![Auto generate typescript definition for env variables.](https://github-readme-stats.vercel.app/api/pin/?username=0x-jerry&repo=unplugin-env)](https://github.com/0x-jerry/unplugin-env)

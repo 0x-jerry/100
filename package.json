@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "scripts": {
     "g:readme": "tsx scripts/readmeGenerator.ts"
   },

@@ -16,6 +16,11 @@ const repos = [
   "e2fly, Another cross-platform V2Ray GUI client.",
   "load-pkg, Detect the closest `package.json` recursively.",
   "openapi-ts, Generate client typescript code by openapi schema.",
+  "vscode-vitepress, A vscode extension that provide preview function.",
+  "vscode-ohm, A vscode extension that support ohm-js language.",
+  "unocss-preset-brand, Use brand color in unocss.",
+  "unplugin-import-bin, Import any file as array buffer.",
+  "unplugin-env, Auto generate typescript definition for env variables.",
 ];
 
 export const config = {
